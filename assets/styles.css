@@ -45,4 +45,6 @@ body{
     margin-top: 10px;
     display: none;
 }
- 
+.search button img{
+    width: 20px;
+}
