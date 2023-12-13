@@ -45,4 +45,29 @@ body{
     margin-top: 10px;
     display: none;
 }
+.search input{
+    border:0;
+    outline:0;
+    background: #ebfffc;
+    color: #555;
+    padding: 10px 25px;
+    height:60px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right:16px;
+    font-size: 18px;
+}
+.search button{
+    border: 0;
+    outline:0;
+    background: #ebfffc;
+    border-radius: 50%;
+    height:60px;
+    width: 60px;
+    cursor: pointer;
+}
+.search button img{
+    width: 20px;
+}
+
  
